@@ -1,0 +1,9 @@
+{
+    "lendee": "Jack",
+    "lender": "Joan",
+    "amount": 500,
+    "prev_block": {
+        "hash": "",
+        "filename": ""
+    }
+}
